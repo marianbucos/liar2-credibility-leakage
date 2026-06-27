@@ -1,0 +1,549 @@
+===== SEED 42 =====
+PyTorch Version : 2.11.0+cu128
+cuda
+3.6.state.pt
+***** Best Result Updated at Epoch 1, Val Loss: 1.6127 *****
+Epoch [1/20], Time: 3.15s, 
+Train Loss: 1.6725, Train Acc: 0.2880, Train F1 Macro: 0.2018, Train F1 Micro: 0.2880, Train RMSE: 1.8166, 
+Val Loss: 1.6127, Val Acc: 0.3213, Val F1 Macro: 0.2037, Val F1 Micro: 0.3213, Val RMSE: 1.6499, 
+Test Loss: 1.6023, Test Acc: 0.3293, Test F1 Macro: 0.2119, Test F1 Micro: 0.3293, Test RMSE: 1.6110
+
+***** Best Result Updated at Epoch 2, Val Loss: 1.5800 *****
+Epoch [2/20], Time: 2.86s, 
+Train Loss: 1.5890, Train Acc: 0.3253, Train F1 Macro: 0.2231, Train F1 Micro: 0.3067, Train RMSE: 1.7705, 
+Val Loss: 1.5800, Val Acc: 0.3304, Val F1 Macro: 0.2283, Val F1 Micro: 0.3259, Val RMSE: 1.6821, 
+Test Loss: 1.5666, Test Acc: 0.3297, Test F1 Macro: 0.2335, Test F1 Micro: 0.3295, Test RMSE: 1.6537
+
+***** Best Result Updated at Epoch 3, Val Loss: 1.5722 *****
+Epoch [3/20], Time: 2.75s, 
+Train Loss: 1.5285, Train Acc: 0.3556, Train F1 Macro: 0.2509, Train F1 Micro: 0.3230, Train RMSE: 1.7294, 
+Val Loss: 1.5722, Val Acc: 0.3396, Val F1 Macro: 0.2433, Val F1 Micro: 0.3304, Val RMSE: 1.6826, 
+Test Loss: 1.5552, Test Acc: 0.3423, Test F1 Macro: 0.2456, Test F1 Micro: 0.3338, Test RMSE: 1.6559
+
+Epoch [4/20], Time: 2.78s, 
+Train Loss: 1.4476, Train Acc: 0.3945, Train F1 Macro: 0.2780, Train F1 Micro: 0.3409, Train RMSE: 1.6872, 
+Val Loss: 1.5975, Val Acc: 0.3317, Val F1 Macro: 0.2446, Val F1 Micro: 0.3308, Val RMSE: 1.6651, 
+Test Loss: 1.5753, Test Acc: 0.3332, Test F1 Macro: 0.2454, Test F1 Micro: 0.3336, Test RMSE: 1.6265
+
+Epoch [5/20], Time: 2.71s, 
+Train Loss: 1.3501, Train Acc: 0.4470, Train F1 Macro: 0.3073, Train F1 Micro: 0.3621, Train RMSE: 1.6420, 
+Val Loss: 1.5967, Val Acc: 0.3239, Val F1 Macro: 0.2527, Val F1 Micro: 0.3294, Val RMSE: 1.6552, 
+Test Loss: 1.5767, Test Acc: 0.3384, Test F1 Macro: 0.2553, Test F1 Micro: 0.3346, Test RMSE: 1.6229
+
+Epoch [6/20], Time: 2.69s, 
+Train Loss: 1.2207, Train Acc: 0.5043, Train F1 Macro: 0.3388, Train F1 Micro: 0.3858, Train RMSE: 1.5946, 
+Val Loss: 1.6802, Val Acc: 0.3178, Val F1 Macro: 0.2582, Val F1 Micro: 0.3275, Val RMSE: 1.6675, 
+Test Loss: 1.6449, Test Acc: 0.3219, Test F1 Macro: 0.2606, Test F1 Micro: 0.3325, Test RMSE: 1.6377
+
+Epoch [7/20], Time: 2.87s, 
+Train Loss: 1.0943, Train Acc: 0.5668, Train F1 Macro: 0.3709, Train F1 Micro: 0.4116, Train RMSE: 1.5460, 
+Val Loss: 1.8116, Val Acc: 0.3148, Val F1 Macro: 0.2607, Val F1 Micro: 0.3256, Val RMSE: 1.6695, 
+Test Loss: 1.7644, Test Acc: 0.3367, Test F1 Macro: 0.2647, Test F1 Micro: 0.3331, Test RMSE: 1.6369
+
+Epoch [8/20], Time: 2.71s, 
+Train Loss: 0.9485, Train Acc: 0.6267, Train F1 Macro: 0.4029, Train F1 Micro: 0.4385, Train RMSE: 1.4978, 
+Val Loss: 1.9048, Val Acc: 0.3069, Val F1 Macro: 0.2621, Val F1 Micro: 0.3233, Val RMSE: 1.6787, 
+Test Loss: 1.8472, Test Acc: 0.3419, Test F1 Macro: 0.2699, Test F1 Micro: 0.3342, Test RMSE: 1.6414
+
+Epoch [9/20], Time: 2.68s, 
+Train Loss: 0.8248, Train Acc: 0.6780, Train F1 Macro: 0.4338, Train F1 Micro: 0.4651, Train RMSE: 1.4502, 
+Val Loss: 2.0948, Val Acc: 0.3082, Val F1 Macro: 0.2638, Val F1 Micro: 0.3216, Val RMSE: 1.6808, 
+Test Loss: 2.0516, Test Acc: 0.3288, Test F1 Macro: 0.2729, Test F1 Micro: 0.3336, Test RMSE: 1.6424
+
+Epoch [10/20], Time: 2.71s, 
+Train Loss: 0.7256, Train Acc: 0.7226, Train F1 Macro: 0.4631, Train F1 Micro: 0.4909, Train RMSE: 1.4059, 
+Val Loss: 2.2868, Val Acc: 0.3078, Val F1 Macro: 0.2640, Val F1 Micro: 0.3202, Val RMSE: 1.6877, 
+Test Loss: 2.2159, Test Acc: 0.3271, Test F1 Macro: 0.2733, Test F1 Micro: 0.3329, Test RMSE: 1.6489
+
+Epoch [11/20], Time: 2.75s, 
+Train Loss: 0.6246, Train Acc: 0.7612, Train F1 Macro: 0.4906, Train F1 Micro: 0.5155, Train RMSE: 1.3642, 
+Val Loss: 2.5250, Val Acc: 0.3078, Val F1 Macro: 0.2654, Val F1 Micro: 0.3191, Val RMSE: 1.6894, 
+Test Loss: 2.4762, Test Acc: 0.3171, Test F1 Macro: 0.2743, Test F1 Micro: 0.3315, Test RMSE: 1.6479
+
+Epoch [12/20], Time: 2.91s, 
+Train Loss: 0.5609, Train Acc: 0.7890, Train F1 Macro: 0.5158, Train F1 Micro: 0.5382, Train RMSE: 1.3258, 
+Val Loss: 2.6503, Val Acc: 0.3074, Val F1 Macro: 0.2661, Val F1 Micro: 0.3181, Val RMSE: 1.6940, 
+Test Loss: 2.6042, Test Acc: 0.3210, Test F1 Macro: 0.2754, Test F1 Micro: 0.3306, Test RMSE: 1.6492
+
+Epoch [13/20], Time: 2.72s, 
+Train Loss: 0.5090, Train Acc: 0.8079, Train F1 Macro: 0.5386, Train F1 Micro: 0.5590, Train RMSE: 1.2902, 
+Val Loss: 2.9074, Val Acc: 0.3034, Val F1 Macro: 0.2655, Val F1 Micro: 0.3170, Val RMSE: 1.6979, 
+Test Loss: 2.8655, Test Acc: 0.3245, Test F1 Macro: 0.2755, Test F1 Micro: 0.3301, Test RMSE: 1.6529
+
+Epoch [14/20], Time: 2.86s, 
+Train Loss: 0.4413, Train Acc: 0.8356, Train F1 Macro: 0.5602, Train F1 Micro: 0.5787, Train RMSE: 1.2570, 
+Val Loss: 3.0431, Val Acc: 0.3104, Val F1 Macro: 0.2668, Val F1 Micro: 0.3165, Val RMSE: 1.6999, 
+Test Loss: 3.0133, Test Acc: 0.3175, Test F1 Macro: 0.2764, Test F1 Micro: 0.3292, Test RMSE: 1.6542
+
+Epoch [15/20], Time: 2.78s, 
+Train Loss: 0.3967, Train Acc: 0.8518, Train F1 Macro: 0.5799, Train F1 Micro: 0.5970, Train RMSE: 1.2257, 
+Val Loss: 3.3078, Val Acc: 0.3095, Val F1 Macro: 0.2676, Val F1 Micro: 0.3161, Val RMSE: 1.7030, 
+Test Loss: 3.2515, Test Acc: 0.3158, Test F1 Macro: 0.2764, Test F1 Micro: 0.3283, Test RMSE: 1.6577
+
+Epoch [16/20], Time: 2.80s, 
+Train Loss: 0.3717, Train Acc: 0.8661, Train F1 Macro: 0.5980, Train F1 Micro: 0.6138, Train RMSE: 1.1968, 
+Val Loss: 3.4303, Val Acc: 0.3091, Val F1 Macro: 0.2689, Val F1 Micro: 0.3156, Val RMSE: 1.7069, 
+Test Loss: 3.3617, Test Acc: 0.3140, Test F1 Macro: 0.2773, Test F1 Micro: 0.3274, Test RMSE: 1.6621
+
+Epoch [17/20], Time: 2.82s, 
+Train Loss: 0.3404, Train Acc: 0.8757, Train F1 Macro: 0.6145, Train F1 Micro: 0.6292, Train RMSE: 1.1703, 
+Val Loss: 3.6195, Val Acc: 0.3052, Val F1 Macro: 0.2693, Val F1 Micro: 0.3150, Val RMSE: 1.7097, 
+Test Loss: 3.5668, Test Acc: 0.3123, Test F1 Macro: 0.2773, Test F1 Micro: 0.3266, Test RMSE: 1.6642
+
+Epoch [18/20], Time: 3.06s, 
+Train Loss: 0.3144, Train Acc: 0.8899, Train F1 Macro: 0.6300, Train F1 Micro: 0.6437, Train RMSE: 1.1452, 
+Val Loss: 3.8033, Val Acc: 0.3000, Val F1 Macro: 0.2695, Val F1 Micro: 0.3142, Val RMSE: 1.7117, 
+Test Loss: 3.7556, Test Acc: 0.3114, Test F1 Macro: 0.2773, Test F1 Micro: 0.3257, Test RMSE: 1.6667
+
+Epoch [19/20], Time: 2.83s, 
+Train Loss: 0.2893, Train Acc: 0.8989, Train F1 Macro: 0.6443, Train F1 Micro: 0.6571, Train RMSE: 1.1216, 
+Val Loss: 3.9875, Val Acc: 0.3008, Val F1 Macro: 0.2699, Val F1 Micro: 0.3135, Val RMSE: 1.7137, 
+Test Loss: 3.9045, Test Acc: 0.3175, Test F1 Macro: 0.2779, Test F1 Micro: 0.3253, Test RMSE: 1.6692
+
+Epoch [20/20], Time: 2.88s, 
+Train Loss: 0.2579, Train Acc: 0.9098, Train F1 Macro: 0.6578, Train F1 Micro: 0.6697, Train RMSE: 1.0991, 
+Val Loss: 4.2080, Val Acc: 0.2956, Val F1 Macro: 0.2700, Val F1 Micro: 0.3126, Val RMSE: 1.7183, 
+Test Loss: 4.0947, Test Acc: 0.3162, Test F1 Macro: 0.2781, Test F1 Micro: 0.3248, Test RMSE: 1.6724
+
+Total Training Time: 56.32s
+
+Test Loss: 1.5552, Test Acc: 0.3423, Test F1 Macro: 0.2461, Test F1 Micro: 0.3423, Test RMSE: 1.6604
+===== SEED 7 =====
+PyTorch Version : 2.11.0+cu128
+cuda
+3.6.state.pt
+***** Best Result Updated at Epoch 1, Val Loss: 1.6142 *****
+Epoch [1/20], Time: 3.02s, 
+Train Loss: 1.6765, Train Acc: 0.2852, Train F1 Macro: 0.1925, Train F1 Micro: 0.2852, Train RMSE: 1.8502, 
+Val Loss: 1.6142, Val Acc: 0.3135, Val F1 Macro: 0.1931, Val F1 Micro: 0.3135, Val RMSE: 1.6682, 
+Test Loss: 1.6025, Test Acc: 0.3210, Test F1 Macro: 0.1888, Test F1 Micro: 0.3210, Test RMSE: 1.6513
+
+***** Best Result Updated at Epoch 2, Val Loss: 1.6009 *****
+Epoch [2/20], Time: 2.69s, 
+Train Loss: 1.5911, Train Acc: 0.3313, Train F1 Macro: 0.2223, Train F1 Micro: 0.3083, Train RMSE: 1.7779, 
+Val Loss: 1.6009, Val Acc: 0.3187, Val F1 Macro: 0.2468, Val F1 Micro: 0.3161, Val RMSE: 1.7722, 
+Test Loss: 1.5840, Test Acc: 0.3306, Test F1 Macro: 0.2503, Test F1 Micro: 0.3258, Test RMSE: 1.7587
+
+***** Best Result Updated at Epoch 3, Val Loss: 1.5810 *****
+Epoch [3/20], Time: 2.60s, 
+Train Loss: 1.5256, Train Acc: 0.3661, Train F1 Macro: 0.2521, Train F1 Micro: 0.3275, Train RMSE: 1.7253, 
+Val Loss: 1.5810, Val Acc: 0.3304, Val F1 Macro: 0.2532, Val F1 Micro: 0.3209, Val RMSE: 1.7364, 
+Test Loss: 1.5669, Test Acc: 0.3262, Test F1 Macro: 0.2560, Test F1 Micro: 0.3259, Test RMSE: 1.7300
+
+Epoch [4/20], Time: 2.58s, 
+Train Loss: 1.4490, Train Acc: 0.4022, Train F1 Macro: 0.2804, Train F1 Micro: 0.3462, Train RMSE: 1.6844, 
+Val Loss: 1.5995, Val Acc: 0.3113, Val F1 Macro: 0.2612, Val F1 Micro: 0.3185, Val RMSE: 1.6992, 
+Test Loss: 1.5711, Test Acc: 0.3380, Test F1 Macro: 0.2696, Test F1 Micro: 0.3289, Test RMSE: 1.6895
+
+Epoch [5/20], Time: 2.62s, 
+Train Loss: 1.3503, Train Acc: 0.4509, Train F1 Macro: 0.3093, Train F1 Micro: 0.3671, Train RMSE: 1.6421, 
+Val Loss: 1.6368, Val Acc: 0.3243, Val F1 Macro: 0.2639, Val F1 Micro: 0.3196, Val RMSE: 1.6826, 
+Test Loss: 1.6115, Test Acc: 0.3258, Test F1 Macro: 0.2704, Test F1 Micro: 0.3283, Test RMSE: 1.6829
+
+Epoch [6/20], Time: 2.61s, 
+Train Loss: 1.2264, Train Acc: 0.5124, Train F1 Macro: 0.3409, Train F1 Micro: 0.3914, Train RMSE: 1.5964, 
+Val Loss: 1.7034, Val Acc: 0.3004, Val F1 Macro: 0.2664, Val F1 Micro: 0.3164, Val RMSE: 1.6795, 
+Test Loss: 1.6722, Test Acc: 0.3210, Test F1 Macro: 0.2747, Test F1 Micro: 0.3271, Test RMSE: 1.6809
+
+Epoch [7/20], Time: 2.77s, 
+Train Loss: 1.0813, Train Acc: 0.5843, Train F1 Macro: 0.3748, Train F1 Micro: 0.4189, Train RMSE: 1.5493, 
+Val Loss: 1.7845, Val Acc: 0.3178, Val F1 Macro: 0.2716, Val F1 Micro: 0.3166, Val RMSE: 1.6880, 
+Test Loss: 1.7617, Test Acc: 0.3193, Test F1 Macro: 0.2783, Test F1 Micro: 0.3260, Test RMSE: 1.6936
+
+Epoch [8/20], Time: 2.65s, 
+Train Loss: 0.9410, Train Acc: 0.6453, Train F1 Macro: 0.4087, Train F1 Micro: 0.4472, Train RMSE: 1.5020, 
+Val Loss: 1.9215, Val Acc: 0.3169, Val F1 Macro: 0.2725, Val F1 Micro: 0.3167, Val RMSE: 1.6863, 
+Test Loss: 1.9103, Test Acc: 0.3118, Test F1 Macro: 0.2779, Test F1 Micro: 0.3242, Test RMSE: 1.6943
+
+Epoch [9/20], Time: 2.65s, 
+Train Loss: 0.8116, Train Acc: 0.6949, Train F1 Macro: 0.4404, Train F1 Micro: 0.4747, Train RMSE: 1.4562, 
+Val Loss: 2.0946, Val Acc: 0.3065, Val F1 Macro: 0.2725, Val F1 Micro: 0.3155, Val RMSE: 1.6851, 
+Test Loss: 2.0871, Test Acc: 0.3044, Test F1 Macro: 0.2768, Test F1 Micro: 0.3220, Test RMSE: 1.6945
+
+Epoch [10/20], Time: 2.66s, 
+Train Loss: 0.6783, Train Acc: 0.7512, Train F1 Macro: 0.4720, Train F1 Micro: 0.5024, Train RMSE: 1.4112, 
+Val Loss: 2.3051, Val Acc: 0.3191, Val F1 Macro: 0.2735, Val F1 Micro: 0.3159, Val RMSE: 1.6846, 
+Test Loss: 2.3073, Test Acc: 0.3066, Test F1 Macro: 0.2760, Test F1 Micro: 0.3205, Test RMSE: 1.6951
+
+Epoch [11/20], Time: 2.71s, 
+Train Loss: 0.5840, Train Acc: 0.7901, Train F1 Macro: 0.5015, Train F1 Micro: 0.5285, Train RMSE: 1.3700, 
+Val Loss: 2.5345, Val Acc: 0.2982, Val F1 Macro: 0.2736, Val F1 Micro: 0.3143, Val RMSE: 1.6841, 
+Test Loss: 2.5327, Test Acc: 0.3031, Test F1 Macro: 0.2755, Test F1 Micro: 0.3189, Test RMSE: 1.6971
+
+Epoch [12/20], Time: 2.85s, 
+Train Loss: 0.5133, Train Acc: 0.8152, Train F1 Macro: 0.5281, Train F1 Micro: 0.5524, Train RMSE: 1.3312, 
+Val Loss: 2.7113, Val Acc: 0.3026, Val F1 Macro: 0.2741, Val F1 Micro: 0.3133, Val RMSE: 1.6850, 
+Test Loss: 2.7234, Test Acc: 0.2901, Test F1 Macro: 0.2745, Test F1 Micro: 0.3165, Test RMSE: 1.7021
+
+Epoch [13/20], Time: 2.72s, 
+Train Loss: 0.4405, Train Acc: 0.8434, Train F1 Macro: 0.5528, Train F1 Micro: 0.5748, Train RMSE: 1.2952, 
+Val Loss: 2.9583, Val Acc: 0.3065, Val F1 Macro: 0.2738, Val F1 Micro: 0.3128, Val RMSE: 1.6886, 
+Test Loss: 2.9230, Test Acc: 0.3031, Test F1 Macro: 0.2736, Test F1 Micro: 0.3155, Test RMSE: 1.7047
+
+Epoch [14/20], Time: 2.74s, 
+Train Loss: 0.4097, Train Acc: 0.8554, Train F1 Macro: 0.5748, Train F1 Micro: 0.5949, Train RMSE: 1.2615, 
+Val Loss: 3.1190, Val Acc: 0.3056, Val F1 Macro: 0.2749, Val F1 Micro: 0.3123, Val RMSE: 1.6907, 
+Test Loss: 3.1147, Test Acc: 0.2966, Test F1 Macro: 0.2737, Test F1 Micro: 0.3141, Test RMSE: 1.7081
+
+Epoch [15/20], Time: 2.75s, 
+Train Loss: 0.3584, Train Acc: 0.8729, Train F1 Macro: 0.5949, Train F1 Micro: 0.6134, Train RMSE: 1.2308, 
+Val Loss: 3.2876, Val Acc: 0.2943, Val F1 Macro: 0.2748, Val F1 Micro: 0.3111, Val RMSE: 1.6953, 
+Test Loss: 3.2803, Test Acc: 0.3036, Test F1 Macro: 0.2741, Test F1 Micro: 0.3134, Test RMSE: 1.7110
+
+Epoch [16/20], Time: 2.76s, 
+Train Loss: 0.3281, Train Acc: 0.8861, Train F1 Macro: 0.6134, Train F1 Micro: 0.6304, Train RMSE: 1.2019, 
+Val Loss: 3.5956, Val Acc: 0.2960, Val F1 Macro: 0.2739, Val F1 Micro: 0.3101, Val RMSE: 1.6943, 
+Test Loss: 3.5977, Test Acc: 0.3101, Test F1 Macro: 0.2739, Test F1 Micro: 0.3132, Test RMSE: 1.7084
+
+Epoch [17/20], Time: 2.92s, 
+Train Loss: 0.2883, Train Acc: 0.9015, Train F1 Macro: 0.6306, Train F1 Micro: 0.6464, Train RMSE: 1.1747, 
+Val Loss: 3.7671, Val Acc: 0.3052, Val F1 Macro: 0.2736, Val F1 Micro: 0.3098, Val RMSE: 1.6956, 
+Test Loss: 3.7896, Test Acc: 0.2997, Test F1 Macro: 0.2733, Test F1 Micro: 0.3124, Test RMSE: 1.7080
+
+Epoch [18/20], Time: 2.77s, 
+Train Loss: 0.2758, Train Acc: 0.9071, Train F1 Macro: 0.6462, Train F1 Micro: 0.6609, Train RMSE: 1.1493, 
+Val Loss: 3.9044, Val Acc: 0.3000, Val F1 Macro: 0.2738, Val F1 Micro: 0.3093, Val RMSE: 1.6969, 
+Test Loss: 3.9515, Test Acc: 0.3014, Test F1 Macro: 0.2735, Test F1 Micro: 0.3118, Test RMSE: 1.7078
+
+Epoch [19/20], Time: 2.79s, 
+Train Loss: 0.2533, Train Acc: 0.9125, Train F1 Macro: 0.6604, Train F1 Micro: 0.6741, Train RMSE: 1.1258, 
+Val Loss: 4.0319, Val Acc: 0.3021, Val F1 Macro: 0.2740, Val F1 Micro: 0.3089, Val RMSE: 1.6989, 
+Test Loss: 4.0695, Test Acc: 0.3044, Test F1 Macro: 0.2737, Test F1 Micro: 0.3114, Test RMSE: 1.7095
+
+Epoch [20/20], Time: 2.82s, 
+Train Loss: 0.2357, Train Acc: 0.9218, Train F1 Macro: 0.6736, Train F1 Micro: 0.6865, Train RMSE: 1.1039, 
+Val Loss: 4.2081, Val Acc: 0.3013, Val F1 Macro: 0.2740, Val F1 Micro: 0.3085, Val RMSE: 1.7007, 
+Test Loss: 4.2495, Test Acc: 0.2879, Test F1 Macro: 0.2729, Test F1 Micro: 0.3102, Test RMSE: 1.7118
+
+Total Training Time: 54.69s
+
+Test Loss: 1.5669, Test Acc: 0.3262, Test F1 Macro: 0.2224, Test F1 Micro: 0.3262, Test RMSE: 1.6711
+===== SEED 13 =====
+PyTorch Version : 2.11.0+cu128
+cuda
+3.6.state.pt
+***** Best Result Updated at Epoch 1, Val Loss: 1.6179 *****
+Epoch [1/20], Time: 3.00s, 
+Train Loss: 1.6666, Train Acc: 0.2904, Train F1 Macro: 0.2037, Train F1 Micro: 0.2904, Train RMSE: 1.7907, 
+Val Loss: 1.6179, Val Acc: 0.3191, Val F1 Macro: 0.1747, Val F1 Micro: 0.3191, Val RMSE: 1.7743, 
+Test Loss: 1.6035, Test Acc: 0.3105, Test F1 Macro: 0.1582, Test F1 Micro: 0.3105, Test RMSE: 1.8198
+
+***** Best Result Updated at Epoch 2, Val Loss: 1.5867 *****
+Epoch [2/20], Time: 2.68s, 
+Train Loss: 1.5839, Train Acc: 0.3320, Train F1 Macro: 0.2304, Train F1 Micro: 0.3112, Train RMSE: 1.7421, 
+Val Loss: 1.5867, Val Acc: 0.3248, Val F1 Macro: 0.2195, Val F1 Micro: 0.3219, Val RMSE: 1.7321, 
+Test Loss: 1.5674, Test Acc: 0.3367, Test F1 Macro: 0.2119, Test F1 Micro: 0.3236, Test RMSE: 1.7639
+
+***** Best Result Updated at Epoch 3, Val Loss: 1.5750 *****
+Epoch [3/20], Time: 2.58s, 
+Train Loss: 1.5260, Train Acc: 0.3623, Train F1 Macro: 0.2560, Train F1 Micro: 0.3282, Train RMSE: 1.7018, 
+Val Loss: 1.5750, Val Acc: 0.3283, Val F1 Macro: 0.2377, Val F1 Micro: 0.3240, Val RMSE: 1.7251, 
+Test Loss: 1.5535, Test Acc: 0.3537, Test F1 Macro: 0.2404, Test F1 Micro: 0.3336, Test RMSE: 1.7401
+
+Epoch [4/20], Time: 2.57s, 
+Train Loss: 1.4511, Train Acc: 0.4009, Train F1 Macro: 0.2821, Train F1 Micro: 0.3464, Train RMSE: 1.6593, 
+Val Loss: 1.5800, Val Acc: 0.3222, Val F1 Macro: 0.2408, Val F1 Micro: 0.3236, Val RMSE: 1.6996, 
+Test Loss: 1.5635, Test Acc: 0.3436, Test F1 Macro: 0.2470, Test F1 Micro: 0.3361, Test RMSE: 1.7204
+
+Epoch [5/20], Time: 2.59s, 
+Train Loss: 1.3586, Train Acc: 0.4442, Train F1 Macro: 0.3092, Train F1 Micro: 0.3660, Train RMSE: 1.6185, 
+Val Loss: 1.6431, Val Acc: 0.3256, Val F1 Macro: 0.2435, Val F1 Micro: 0.3240, Val RMSE: 1.7013, 
+Test Loss: 1.6195, Test Acc: 0.3284, Test F1 Macro: 0.2483, Test F1 Micro: 0.3346, Test RMSE: 1.7172
+
+Epoch [6/20], Time: 2.61s, 
+Train Loss: 1.2499, Train Acc: 0.4953, Train F1 Macro: 0.3371, Train F1 Micro: 0.3875, Train RMSE: 1.5760, 
+Val Loss: 1.6630, Val Acc: 0.3222, Val F1 Macro: 0.2515, Val F1 Micro: 0.3237, Val RMSE: 1.6906, 
+Test Loss: 1.6332, Test Acc: 0.3367, Test F1 Macro: 0.2575, Test F1 Micro: 0.3349, Test RMSE: 1.7046
+
+Epoch [7/20], Time: 2.72s, 
+Train Loss: 1.1214, Train Acc: 0.5565, Train F1 Macro: 0.3665, Train F1 Micro: 0.4117, Train RMSE: 1.5322, 
+Val Loss: 1.7469, Val Acc: 0.3182, Val F1 Macro: 0.2577, Val F1 Micro: 0.3229, Val RMSE: 1.6815, 
+Test Loss: 1.7031, Test Acc: 0.3314, Test F1 Macro: 0.2644, Test F1 Micro: 0.3344, Test RMSE: 1.6923
+
+Epoch [8/20], Time: 2.57s, 
+Train Loss: 0.9832, Train Acc: 0.6146, Train F1 Macro: 0.3966, Train F1 Micro: 0.4370, Train RMSE: 1.4878, 
+Val Loss: 1.8503, Val Acc: 0.3148, Val F1 Macro: 0.2618, Val F1 Micro: 0.3219, Val RMSE: 1.6909, 
+Test Loss: 1.8204, Test Acc: 0.3240, Test F1 Macro: 0.2681, Test F1 Micro: 0.3331, Test RMSE: 1.7006
+
+Epoch [9/20], Time: 2.65s, 
+Train Loss: 0.8507, Train Acc: 0.6752, Train F1 Macro: 0.4271, Train F1 Micro: 0.4635, Train RMSE: 1.4444, 
+Val Loss: 2.0205, Val Acc: 0.3091, Val F1 Macro: 0.2641, Val F1 Micro: 0.3205, Val RMSE: 1.6947, 
+Test Loss: 1.9688, Test Acc: 0.3214, Test F1 Macro: 0.2710, Test F1 Micro: 0.3318, Test RMSE: 1.7017
+
+Epoch [10/20], Time: 2.64s, 
+Train Loss: 0.7389, Train Acc: 0.7197, Train F1 Macro: 0.4560, Train F1 Micro: 0.4891, Train RMSE: 1.4020, 
+Val Loss: 2.2232, Val Acc: 0.3039, Val F1 Macro: 0.2650, Val F1 Micro: 0.3188, Val RMSE: 1.6971, 
+Test Loss: 2.1617, Test Acc: 0.3223, Test F1 Macro: 0.2730, Test F1 Micro: 0.3309, Test RMSE: 1.7027
+
+Epoch [11/20], Time: 2.67s, 
+Train Loss: 0.6331, Train Acc: 0.7658, Train F1 Macro: 0.4842, Train F1 Micro: 0.5143, Train RMSE: 1.3617, 
+Val Loss: 2.4672, Val Acc: 0.3017, Val F1 Macro: 0.2660, Val F1 Micro: 0.3173, Val RMSE: 1.6962, 
+Test Loss: 2.4038, Test Acc: 0.3184, Test F1 Macro: 0.2746, Test F1 Micro: 0.3297, Test RMSE: 1.7000
+
+Epoch [12/20], Time: 2.88s, 
+Train Loss: 0.5523, Train Acc: 0.7970, Train F1 Macro: 0.5104, Train F1 Micro: 0.5378, Train RMSE: 1.3233, 
+Val Loss: 2.7064, Val Acc: 0.3148, Val F1 Macro: 0.2665, Val F1 Micro: 0.3170, Val RMSE: 1.6978, 
+Test Loss: 2.6828, Test Acc: 0.3210, Test F1 Macro: 0.2746, Test F1 Micro: 0.3290, Test RMSE: 1.7012
+
+Epoch [13/20], Time: 2.72s, 
+Train Loss: 0.4729, Train Acc: 0.8275, Train F1 Macro: 0.5352, Train F1 Micro: 0.5601, Train RMSE: 1.2868, 
+Val Loss: 2.8599, Val Acc: 0.3082, Val F1 Macro: 0.2676, Val F1 Micro: 0.3164, Val RMSE: 1.6985, 
+Test Loss: 2.8081, Test Acc: 0.3110, Test F1 Macro: 0.2753, Test F1 Micro: 0.3276, Test RMSE: 1.7033
+
+Epoch [14/20], Time: 3.09s, 
+Train Loss: 0.4323, Train Acc: 0.8444, Train F1 Macro: 0.5575, Train F1 Micro: 0.5804, Train RMSE: 1.2540, 
+Val Loss: 3.0852, Val Acc: 0.2973, Val F1 Macro: 0.2674, Val F1 Micro: 0.3150, Val RMSE: 1.7000, 
+Test Loss: 3.0072, Test Acc: 0.3175, Test F1 Macro: 0.2764, Test F1 Micro: 0.3269, Test RMSE: 1.7058
+
+Epoch [15/20], Time: 2.73s, 
+Train Loss: 0.3978, Train Acc: 0.8596, Train F1 Macro: 0.5778, Train F1 Micro: 0.5990, Train RMSE: 1.2236, 
+Val Loss: 3.2596, Val Acc: 0.3047, Val F1 Macro: 0.2678, Val F1 Micro: 0.3143, Val RMSE: 1.7047, 
+Test Loss: 3.2162, Test Acc: 0.3145, Test F1 Macro: 0.2769, Test F1 Micro: 0.3261, Test RMSE: 1.7103
+
+Epoch [16/20], Time: 2.72s, 
+Train Loss: 0.3415, Train Acc: 0.8803, Train F1 Macro: 0.5970, Train F1 Micro: 0.6166, Train RMSE: 1.1951, 
+Val Loss: 3.4939, Val Acc: 0.3087, Val F1 Macro: 0.2680, Val F1 Micro: 0.3140, Val RMSE: 1.7049, 
+Test Loss: 3.4318, Test Acc: 0.3127, Test F1 Macro: 0.2772, Test F1 Micro: 0.3252, Test RMSE: 1.7114
+
+Epoch [17/20], Time: 2.96s, 
+Train Loss: 0.3107, Train Acc: 0.8914, Train F1 Macro: 0.6146, Train F1 Micro: 0.6328, Train RMSE: 1.1679, 
+Val Loss: 3.7191, Val Acc: 0.2995, Val F1 Macro: 0.2679, Val F1 Micro: 0.3131, Val RMSE: 1.7069, 
+Test Loss: 3.5982, Test Acc: 0.3057, Test F1 Macro: 0.2769, Test F1 Micro: 0.3241, Test RMSE: 1.7131
+
+Epoch [18/20], Time: 2.79s, 
+Train Loss: 0.2853, Train Acc: 0.9028, Train F1 Macro: 0.6308, Train F1 Micro: 0.6478, Train RMSE: 1.1429, 
+Val Loss: 3.8762, Val Acc: 0.3021, Val F1 Macro: 0.2681, Val F1 Micro: 0.3125, Val RMSE: 1.7063, 
+Test Loss: 3.7742, Test Acc: 0.3145, Test F1 Macro: 0.2776, Test F1 Micro: 0.3236, Test RMSE: 1.7132
+
+Epoch [19/20], Time: 2.80s, 
+Train Loss: 0.2623, Train Acc: 0.9120, Train F1 Macro: 0.6457, Train F1 Micro: 0.6617, Train RMSE: 1.1191, 
+Val Loss: 4.0986, Val Acc: 0.3021, Val F1 Macro: 0.2679, Val F1 Micro: 0.3120, Val RMSE: 1.7088, 
+Test Loss: 3.9856, Test Acc: 0.3175, Test F1 Macro: 0.2781, Test F1 Micro: 0.3232, Test RMSE: 1.7141
+
+Epoch [20/20], Time: 2.81s, 
+Train Loss: 0.2507, Train Acc: 0.9150, Train F1 Macro: 0.6594, Train F1 Micro: 0.6744, Train RMSE: 1.0972, 
+Val Loss: 4.3561, Val Acc: 0.3043, Val F1 Macro: 0.2678, Val F1 Micro: 0.3116, Val RMSE: 1.7097, 
+Test Loss: 4.1891, Test Acc: 0.3245, Test F1 Macro: 0.2785, Test F1 Micro: 0.3233, Test RMSE: 1.7138
+
+Total Training Time: 54.77s
+
+Test Loss: 1.5535, Test Acc: 0.3537, Test F1 Macro: 0.2858, Test F1 Micro: 0.3537, Test RMSE: 1.6916
+===== SEED 77 =====
+PyTorch Version : 2.11.0+cu128
+cuda
+3.6.state.pt
+***** Best Result Updated at Epoch 1, Val Loss: 1.6099 *****
+Epoch [1/20], Time: 2.98s, 
+Train Loss: 1.6644, Train Acc: 0.2972, Train F1 Macro: 0.2005, Train F1 Micro: 0.2972, Train RMSE: 1.7838, 
+Val Loss: 1.6099, Val Acc: 0.3261, Val F1 Macro: 0.2057, Val F1 Micro: 0.3261, Val RMSE: 1.6259, 
+Test Loss: 1.5994, Test Acc: 0.3245, Test F1 Macro: 0.1980, Test F1 Micro: 0.3245, Test RMSE: 1.6214
+
+***** Best Result Updated at Epoch 2, Val Loss: 1.5904 *****
+Epoch [2/20], Time: 2.67s, 
+Train Loss: 1.5873, Train Acc: 0.3300, Train F1 Macro: 0.2236, Train F1 Micro: 0.3136, Train RMSE: 1.7401, 
+Val Loss: 1.5904, Val Acc: 0.3209, Val F1 Macro: 0.2450, Val F1 Micro: 0.3235, Val RMSE: 1.5956, 
+Test Loss: 1.5817, Test Acc: 0.3201, Test F1 Macro: 0.2347, Test F1 Micro: 0.3223, Test RMSE: 1.5955
+
+Epoch [3/20], Time: 2.55s, 
+Train Loss: 1.5278, Train Acc: 0.3671, Train F1 Macro: 0.2534, Train F1 Micro: 0.3314, Train RMSE: 1.7042, 
+Val Loss: 1.6020, Val Acc: 0.3304, Val F1 Macro: 0.2444, Val F1 Micro: 0.3258, Val RMSE: 1.6319, 
+Test Loss: 1.5888, Test Acc: 0.3249, Test F1 Macro: 0.2355, Test F1 Micro: 0.3232, Test RMSE: 1.6359
+
+***** Best Result Updated at Epoch 4, Val Loss: 1.5893 *****
+Epoch [4/20], Time: 2.60s, 
+Train Loss: 1.4540, Train Acc: 0.4036, Train F1 Macro: 0.2814, Train F1 Micro: 0.3495, Train RMSE: 1.6673, 
+Val Loss: 1.5893, Val Acc: 0.3135, Val F1 Macro: 0.2484, Val F1 Micro: 0.3227, Val RMSE: 1.6477, 
+Test Loss: 1.5752, Test Acc: 0.3158, Test F1 Macro: 0.2446, Test F1 Micro: 0.3213, Test RMSE: 1.6516
+
+Epoch [5/20], Time: 2.60s, 
+Train Loss: 1.3580, Train Acc: 0.4473, Train F1 Macro: 0.3093, Train F1 Micro: 0.3690, Train RMSE: 1.6276, 
+Val Loss: 1.6109, Val Acc: 0.3226, Val F1 Macro: 0.2477, Val F1 Micro: 0.3227, Val RMSE: 1.6585, 
+Test Loss: 1.5989, Test Acc: 0.3332, Test F1 Macro: 0.2463, Test F1 Micro: 0.3237, Test RMSE: 1.6655
+
+Epoch [6/20], Time: 2.59s, 
+Train Loss: 1.2386, Train Acc: 0.5057, Train F1 Macro: 0.3394, Train F1 Micro: 0.3918, Train RMSE: 1.5868, 
+Val Loss: 1.6713, Val Acc: 0.3187, Val F1 Macro: 0.2538, Val F1 Micro: 0.3220, Val RMSE: 1.6611, 
+Test Loss: 1.6545, Test Acc: 0.3314, Test F1 Macro: 0.2555, Test F1 Micro: 0.3250, Test RMSE: 1.6707
+
+Epoch [7/20], Time: 2.74s, 
+Train Loss: 1.0970, Train Acc: 0.5756, Train F1 Macro: 0.3719, Train F1 Micro: 0.4181, Train RMSE: 1.5415, 
+Val Loss: 1.7708, Val Acc: 0.3191, Val F1 Macro: 0.2594, Val F1 Micro: 0.3216, Val RMSE: 1.6606, 
+Test Loss: 1.7542, Test Acc: 0.3267, Test F1 Macro: 0.2621, Test F1 Micro: 0.3252, Test RMSE: 1.6789
+
+Epoch [8/20], Time: 2.64s, 
+Train Loss: 0.9656, Train Acc: 0.6321, Train F1 Macro: 0.4039, Train F1 Micro: 0.4448, Train RMSE: 1.4960, 
+Val Loss: 1.9078, Val Acc: 0.3178, Val F1 Macro: 0.2624, Val F1 Micro: 0.3211, Val RMSE: 1.6569, 
+Test Loss: 1.8914, Test Acc: 0.3184, Test F1 Macro: 0.2652, Test F1 Micro: 0.3244, Test RMSE: 1.6763
+
+Epoch [9/20], Time: 2.66s, 
+Train Loss: 0.8099, Train Acc: 0.6960, Train F1 Macro: 0.4365, Train F1 Micro: 0.4727, Train RMSE: 1.4516, 
+Val Loss: 2.0788, Val Acc: 0.3217, Val F1 Macro: 0.2648, Val F1 Micro: 0.3212, Val RMSE: 1.6583, 
+Test Loss: 2.0699, Test Acc: 0.3188, Test F1 Macro: 0.2666, Test F1 Micro: 0.3238, Test RMSE: 1.6815
+
+Epoch [10/20], Time: 2.66s, 
+Train Loss: 0.6999, Train Acc: 0.7403, Train F1 Macro: 0.4672, Train F1 Micro: 0.4995, Train RMSE: 1.4083, 
+Val Loss: 2.2344, Val Acc: 0.3156, Val F1 Macro: 0.2680, Val F1 Micro: 0.3206, Val RMSE: 1.6635, 
+Test Loss: 2.2219, Test Acc: 0.3088, Test F1 Macro: 0.2693, Test F1 Micro: 0.3223, Test RMSE: 1.6893
+
+Epoch [11/20], Time: 2.70s, 
+Train Loss: 0.5971, Train Acc: 0.7789, Train F1 Macro: 0.4958, Train F1 Micro: 0.5249, Train RMSE: 1.3678, 
+Val Loss: 2.4947, Val Acc: 0.3152, Val F1 Macro: 0.2681, Val F1 Micro: 0.3201, Val RMSE: 1.6656, 
+Test Loss: 2.4620, Test Acc: 0.3132, Test F1 Macro: 0.2691, Test F1 Micro: 0.3214, Test RMSE: 1.6948
+
+Epoch [12/20], Time: 2.85s, 
+Train Loss: 0.5051, Train Acc: 0.8158, Train F1 Macro: 0.5230, Train F1 Micro: 0.5491, Train RMSE: 1.3277, 
+Val Loss: 2.6978, Val Acc: 0.3165, Val F1 Macro: 0.2694, Val F1 Micro: 0.3198, Val RMSE: 1.6694, 
+Test Loss: 2.6469, Test Acc: 0.3114, Test F1 Macro: 0.2702, Test F1 Micro: 0.3206, Test RMSE: 1.7001
+
+Epoch [13/20], Time: 2.70s, 
+Train Loss: 0.4664, Train Acc: 0.8343, Train F1 Macro: 0.5475, Train F1 Micro: 0.5711, Train RMSE: 1.2927, 
+Val Loss: 2.9270, Val Acc: 0.3108, Val F1 Macro: 0.2698, Val F1 Micro: 0.3191, Val RMSE: 1.6728, 
+Test Loss: 2.8773, Test Acc: 0.3158, Test F1 Macro: 0.2710, Test F1 Micro: 0.3202, Test RMSE: 1.7034
+
+Epoch [14/20], Time: 2.73s, 
+Train Loss: 0.3988, Train Acc: 0.8572, Train F1 Macro: 0.5699, Train F1 Micro: 0.5915, Train RMSE: 1.2598, 
+Val Loss: 3.1685, Val Acc: 0.3100, Val F1 Macro: 0.2707, Val F1 Micro: 0.3185, Val RMSE: 1.6741, 
+Test Loss: 3.0780, Test Acc: 0.3084, Test F1 Macro: 0.2719, Test F1 Micro: 0.3194, Test RMSE: 1.7073
+
+Epoch [15/20], Time: 2.75s, 
+Train Loss: 0.3594, Train Acc: 0.8721, Train F1 Macro: 0.5904, Train F1 Micro: 0.6102, Train RMSE: 1.2289, 
+Val Loss: 3.3810, Val Acc: 0.3069, Val F1 Macro: 0.2714, Val F1 Micro: 0.3177, Val RMSE: 1.6761, 
+Test Loss: 3.2771, Test Acc: 0.3049, Test F1 Macro: 0.2725, Test F1 Micro: 0.3184, Test RMSE: 1.7113
+
+Epoch [16/20], Time: 2.76s, 
+Train Loss: 0.3267, Train Acc: 0.8845, Train F1 Macro: 0.6091, Train F1 Micro: 0.6274, Train RMSE: 1.2002, 
+Val Loss: 3.5733, Val Acc: 0.2991, Val F1 Macro: 0.2723, Val F1 Micro: 0.3166, Val RMSE: 1.6770, 
+Test Loss: 3.4692, Test Acc: 0.3057, Test F1 Macro: 0.2740, Test F1 Micro: 0.3176, Test RMSE: 1.7132
+
+Epoch [17/20], Time: 2.93s, 
+Train Loss: 0.3122, Train Acc: 0.8942, Train F1 Macro: 0.6261, Train F1 Micro: 0.6431, Train RMSE: 1.1738, 
+Val Loss: 3.7494, Val Acc: 0.3034, Val F1 Macro: 0.2722, Val F1 Micro: 0.3158, Val RMSE: 1.6801, 
+Test Loss: 3.6530, Test Acc: 0.3066, Test F1 Macro: 0.2742, Test F1 Micro: 0.3170, Test RMSE: 1.7160
+
+Epoch [18/20], Time: 2.78s, 
+Train Loss: 0.2813, Train Acc: 0.9035, Train F1 Macro: 0.6417, Train F1 Micro: 0.6575, Train RMSE: 1.1490, 
+Val Loss: 3.8715, Val Acc: 0.3047, Val F1 Macro: 0.2724, Val F1 Micro: 0.3152, Val RMSE: 1.6820, 
+Test Loss: 3.8045, Test Acc: 0.3057, Test F1 Macro: 0.2745, Test F1 Micro: 0.3163, Test RMSE: 1.7184
+
+Epoch [19/20], Time: 2.82s, 
+Train Loss: 0.2724, Train Acc: 0.9057, Train F1 Macro: 0.6558, Train F1 Micro: 0.6706, Train RMSE: 1.1265, 
+Val Loss: 4.0320, Val Acc: 0.3021, Val F1 Macro: 0.2725, Val F1 Micro: 0.3145, Val RMSE: 1.6848, 
+Test Loss: 3.9492, Test Acc: 0.3062, Test F1 Macro: 0.2749, Test F1 Micro: 0.3158, Test RMSE: 1.7215
+
+Epoch [20/20], Time: 2.83s, 
+Train Loss: 0.2438, Train Acc: 0.9197, Train F1 Macro: 0.6692, Train F1 Micro: 0.6830, Train RMSE: 1.1041, 
+Val Loss: 4.1496, Val Acc: 0.2943, Val F1 Macro: 0.2725, Val F1 Micro: 0.3135, Val RMSE: 1.6867, 
+Test Loss: 4.0655, Test Acc: 0.3023, Test F1 Macro: 0.2752, Test F1 Micro: 0.3151, Test RMSE: 1.7233
+
+Total Training Time: 54.56s
+
+Test Loss: 1.5752, Test Acc: 0.3158, Test F1 Macro: 0.2482, Test F1 Micro: 0.3158, Test RMSE: 1.6980
+===== SEED 123 =====
+PyTorch Version : 2.11.0+cu128
+cuda
+3.6.state.pt
+***** Best Result Updated at Epoch 1, Val Loss: 1.6136 *****
+Epoch [1/20], Time: 2.99s, 
+Train Loss: 1.6751, Train Acc: 0.2924, Train F1 Macro: 0.2003, Train F1 Micro: 0.2924, Train RMSE: 1.7924, 
+Val Loss: 1.6136, Val Acc: 0.3135, Val F1 Macro: 0.1695, Val F1 Micro: 0.3135, Val RMSE: 1.7304, 
+Test Loss: 1.6048, Test Acc: 0.3193, Test F1 Macro: 0.1700, Test F1 Micro: 0.3193, Test RMSE: 1.7369
+
+***** Best Result Updated at Epoch 2, Val Loss: 1.5805 *****
+Epoch [2/20], Time: 2.72s, 
+Train Loss: 1.5922, Train Acc: 0.3300, Train F1 Macro: 0.2252, Train F1 Micro: 0.3112, Train RMSE: 1.7468, 
+Val Loss: 1.5805, Val Acc: 0.3304, Val F1 Macro: 0.2026, Val F1 Micro: 0.3219, Val RMSE: 1.6720, 
+Test Loss: 1.5654, Test Acc: 0.3384, Test F1 Macro: 0.2014, Test F1 Micro: 0.3288, Test RMSE: 1.6718
+
+Epoch [3/20], Time: 2.61s, 
+Train Loss: 1.5280, Train Acc: 0.3592, Train F1 Macro: 0.2502, Train F1 Micro: 0.3272, Train RMSE: 1.7050, 
+Val Loss: 1.5959, Val Acc: 0.3261, Val F1 Macro: 0.2312, Val F1 Micro: 0.3233, Val RMSE: 1.6883, 
+Test Loss: 1.5726, Test Acc: 0.3323, Test F1 Macro: 0.2294, Test F1 Micro: 0.3300, Test RMSE: 1.6637
+
+Epoch [4/20], Time: 2.60s, 
+Train Loss: 1.4508, Train Acc: 0.3965, Train F1 Macro: 0.2766, Train F1 Micro: 0.3445, Train RMSE: 1.6648, 
+Val Loss: 1.6004, Val Acc: 0.3300, Val F1 Macro: 0.2400, Val F1 Micro: 0.3250, Val RMSE: 1.6826, 
+Test Loss: 1.5638, Test Acc: 0.3367, Test F1 Macro: 0.2398, Test F1 Micro: 0.3317, Test RMSE: 1.6564
+
+Epoch [5/20], Time: 2.60s, 
+Train Loss: 1.3506, Train Acc: 0.4484, Train F1 Macro: 0.3062, Train F1 Micro: 0.3653, Train RMSE: 1.6185, 
+Val Loss: 1.6228, Val Acc: 0.3217, Val F1 Macro: 0.2525, Val F1 Micro: 0.3243, Val RMSE: 1.6794, 
+Test Loss: 1.5969, Test Acc: 0.3223, Test F1 Macro: 0.2530, Test F1 Micro: 0.3298, Test RMSE: 1.6526
+
+Epoch [6/20], Time: 2.66s, 
+Train Loss: 1.2405, Train Acc: 0.4971, Train F1 Macro: 0.3357, Train F1 Micro: 0.3873, Train RMSE: 1.5749, 
+Val Loss: 1.6885, Val Acc: 0.3278, Val F1 Macro: 0.2631, Val F1 Micro: 0.3249, Val RMSE: 1.6667, 
+Test Loss: 1.6822, Test Acc: 0.3092, Test F1 Macro: 0.2602, Test F1 Micro: 0.3264, Test RMSE: 1.6464
+
+Epoch [7/20], Time: 2.84s, 
+Train Loss: 1.1079, Train Acc: 0.5642, Train F1 Macro: 0.3674, Train F1 Micro: 0.4126, Train RMSE: 1.5289, 
+Val Loss: 1.7894, Val Acc: 0.3313, Val F1 Macro: 0.2655, Val F1 Micro: 0.3258, Val RMSE: 1.6599, 
+Test Loss: 1.7593, Test Acc: 0.3328, Test F1 Macro: 0.2618, Test F1 Micro: 0.3273, Test RMSE: 1.6432
+
+Epoch [8/20], Time: 2.63s, 
+Train Loss: 0.9564, Train Acc: 0.6296, Train F1 Macro: 0.4002, Train F1 Micro: 0.4397, Train RMSE: 1.4811, 
+Val Loss: 1.9236, Val Acc: 0.2956, Val F1 Macro: 0.2687, Val F1 Micro: 0.3221, Val RMSE: 1.6605, 
+Test Loss: 1.8750, Test Acc: 0.3175, Test F1 Macro: 0.2678, Test F1 Micro: 0.3261, Test RMSE: 1.6422
+
+Epoch [9/20], Time: 2.67s, 
+Train Loss: 0.8379, Train Acc: 0.6827, Train F1 Macro: 0.4319, Train F1 Micro: 0.4667, Train RMSE: 1.4347, 
+Val Loss: 2.0529, Val Acc: 0.3187, Val F1 Macro: 0.2715, Val F1 Micro: 0.3217, Val RMSE: 1.6735, 
+Test Loss: 2.0018, Test Acc: 0.3232, Test F1 Macro: 0.2706, Test F1 Micro: 0.3257, Test RMSE: 1.6583
+
+Epoch [10/20], Time: 2.67s, 
+Train Loss: 0.7184, Train Acc: 0.7309, Train F1 Macro: 0.4621, Train F1 Micro: 0.4931, Train RMSE: 1.3917, 
+Val Loss: 2.2231, Val Acc: 0.3143, Val F1 Macro: 0.2728, Val F1 Micro: 0.3209, Val RMSE: 1.6792, 
+Test Loss: 2.1505, Test Acc: 0.3323, Test F1 Macro: 0.2737, Test F1 Micro: 0.3264, Test RMSE: 1.6642
+
+Epoch [11/20], Time: 2.68s, 
+Train Loss: 0.6179, Train Acc: 0.7694, Train F1 Macro: 0.4904, Train F1 Micro: 0.5182, Train RMSE: 1.3504, 
+Val Loss: 2.4304, Val Acc: 0.3034, Val F1 Macro: 0.2728, Val F1 Micro: 0.3193, Val RMSE: 1.6834, 
+Test Loss: 2.3772, Test Acc: 0.3258, Test F1 Macro: 0.2757, Test F1 Micro: 0.3263, Test RMSE: 1.6665
+
+Epoch [12/20], Time: 2.86s, 
+Train Loss: 0.5392, Train Acc: 0.8059, Train F1 Macro: 0.5172, Train F1 Micro: 0.5422, Train RMSE: 1.3125, 
+Val Loss: 2.6686, Val Acc: 0.3061, Val F1 Macro: 0.2732, Val F1 Micro: 0.3182, Val RMSE: 1.6838, 
+Test Loss: 2.5943, Test Acc: 0.3214, Test F1 Macro: 0.2769, Test F1 Micro: 0.3259, Test RMSE: 1.6636
+
+Epoch [13/20], Time: 2.71s, 
+Train Loss: 0.4795, Train Acc: 0.8273, Train F1 Macro: 0.5415, Train F1 Micro: 0.5641, Train RMSE: 1.2772, 
+Val Loss: 2.8183, Val Acc: 0.3013, Val F1 Macro: 0.2735, Val F1 Micro: 0.3169, Val RMSE: 1.6896, 
+Test Loss: 2.7788, Test Acc: 0.3297, Test F1 Macro: 0.2788, Test F1 Micro: 0.3262, Test RMSE: 1.6663
+
+Epoch [14/20], Time: 2.74s, 
+Train Loss: 0.4293, Train Acc: 0.8480, Train F1 Macro: 0.5639, Train F1 Micro: 0.5844, Train RMSE: 1.2441, 
+Val Loss: 3.0840, Val Acc: 0.3148, Val F1 Macro: 0.2735, Val F1 Micro: 0.3168, Val RMSE: 1.6915, 
+Test Loss: 3.0262, Test Acc: 0.3301, Test F1 Macro: 0.2793, Test F1 Micro: 0.3265, Test RMSE: 1.6669
+
+Epoch [15/20], Time: 2.73s, 
+Train Loss: 0.3821, Train Acc: 0.8612, Train F1 Macro: 0.5841, Train F1 Micro: 0.6029, Train RMSE: 1.2134, 
+Val Loss: 3.1781, Val Acc: 0.3082, Val F1 Macro: 0.2738, Val F1 Micro: 0.3162, Val RMSE: 1.6961, 
+Test Loss: 3.1331, Test Acc: 0.3214, Test F1 Macro: 0.2797, Test F1 Micro: 0.3262, Test RMSE: 1.6729
+
+Epoch [16/20], Time: 2.77s, 
+Train Loss: 0.3380, Train Acc: 0.8833, Train F1 Macro: 0.6031, Train F1 Micro: 0.6204, Train RMSE: 1.1846, 
+Val Loss: 3.4247, Val Acc: 0.3056, Val F1 Macro: 0.2738, Val F1 Micro: 0.3155, Val RMSE: 1.6989, 
+Test Loss: 3.3800, Test Acc: 0.3367, Test F1 Macro: 0.2808, Test F1 Micro: 0.3268, Test RMSE: 1.6751
+
+Epoch [17/20], Time: 3.10s, 
+Train Loss: 0.3167, Train Acc: 0.8892, Train F1 Macro: 0.6202, Train F1 Micro: 0.6362, Train RMSE: 1.1583, 
+Val Loss: 3.6286, Val Acc: 0.2904, Val F1 Macro: 0.2741, Val F1 Micro: 0.3141, Val RMSE: 1.7017, 
+Test Loss: 3.5675, Test Acc: 0.3136, Test F1 Macro: 0.2818, Test F1 Micro: 0.3260, Test RMSE: 1.6786
+
+Epoch [18/20], Time: 2.91s, 
+Train Loss: 0.2984, Train Acc: 0.8983, Train F1 Macro: 0.6359, Train F1 Micro: 0.6508, Train RMSE: 1.1340, 
+Val Loss: 3.7994, Val Acc: 0.3108, Val F1 Macro: 0.2739, Val F1 Micro: 0.3139, Val RMSE: 1.7020, 
+Test Loss: 3.7319, Test Acc: 0.3193, Test F1 Macro: 0.2817, Test F1 Micro: 0.3257, Test RMSE: 1.6791
+
+Epoch [19/20], Time: 2.82s, 
+Train Loss: 0.2710, Train Acc: 0.9052, Train F1 Macro: 0.6503, Train F1 Micro: 0.6642, Train RMSE: 1.1110, 
+Val Loss: 3.9271, Val Acc: 0.3078, Val F1 Macro: 0.2738, Val F1 Micro: 0.3136, Val RMSE: 1.7027, 
+Test Loss: 3.9086, Test Acc: 0.3118, Test F1 Macro: 0.2817, Test F1 Micro: 0.3249, Test RMSE: 1.6802
+
+Epoch [20/20], Time: 2.82s, 
+Train Loss: 0.2458, Train Acc: 0.9144, Train F1 Macro: 0.6637, Train F1 Micro: 0.6767, Train RMSE: 1.0889, 
+Val Loss: 4.1641, Val Acc: 0.3056, Val F1 Macro: 0.2737, Val F1 Micro: 0.3132, Val RMSE: 1.7027, 
+Test Loss: 4.1323, Test Acc: 0.3140, Test F1 Macro: 0.2815, Test F1 Micro: 0.3244, Test RMSE: 1.6810
+
+Total Training Time: 55.13s
+
+Test Loss: 1.5654, Test Acc: 0.3384, Test F1 Macro: 0.2272, Test F1 Micro: 0.3384, Test RMSE: 1.6041

@@ -1,0 +1,95 @@
+===== SEED 42 =====
+PyTorch Version : 2.11.0+cu128
+cuda
+2.1.Train_Original_Test_New.pt
+***** Best Result Updated at Epoch 1, Val Loss: 0.2702 *****
+Epoch [1/10], Time: 4.84s, Train Loss: 0.3879, Train Acc: 0.3922, Train F1 Macro: 0.3880, Train F1 Micro: 0.3922, Val Loss: 0.2702, Val Acc: 0.6522, Val F1 Macro: 0.6172, Val F1 Micro: 0.6522
+***** Best Result Updated at Epoch 2, Val Loss: 0.2292 *****
+Epoch [2/10], Time: 4.20s, Train Loss: 0.2946, Train Acc: 0.5843, Train F1 Macro: 0.4928, Train F1 Micro: 0.4883, Val Loss: 0.2292, Val Acc: 0.7392, Val F1 Macro: 0.6597, Val F1 Micro: 0.6957
+Epoch [3/10], Time: 4.11s, Train Loss: 0.2588, Train Acc: 0.6490, Train F1 Macro: 0.5479, Train F1 Micro: 0.5418, Val Loss: 0.2303, Val Acc: 0.7417, Val F1 Macro: 0.6726, Val F1 Micro: 0.7110
+Epoch [4/10], Time: 4.14s, Train Loss: 0.2284, Train Acc: 0.6977, Train F1 Macro: 0.5877, Train F1 Micro: 0.5808, Val Loss: 0.2419, Val Acc: 0.6596, Val F1 Macro: 0.6693, Val F1 Micro: 0.6981
+***** Best Result Updated at Epoch 5, Val Loss: 0.2183 *****
+Epoch [5/10], Time: 4.48s, Train Loss: 0.1979, Train Acc: 0.7580, Train F1 Macro: 0.6233, Train F1 Micro: 0.6162, Val Loss: 0.2183, Val Acc: 0.7406, Val F1 Macro: 0.6771, Val F1 Micro: 0.7066
+Epoch [6/10], Time: 4.53s, Train Loss: 0.1686, Train Acc: 0.8116, Train F1 Macro: 0.6560, Train F1 Micro: 0.6488, Val Loss: 0.2231, Val Acc: 0.7350, Val F1 Macro: 0.6821, Val F1 Micro: 0.7114
+Epoch [7/10], Time: 4.33s, Train Loss: 0.1364, Train Acc: 0.8611, Train F1 Macro: 0.6860, Train F1 Micro: 0.6791, Val Loss: 0.2365, Val Acc: 0.7312, Val F1 Macro: 0.6850, Val F1 Micro: 0.7142
+Epoch [8/10], Time: 4.38s, Train Loss: 0.1039, Train Acc: 0.9106, Train F1 Macro: 0.7146, Train F1 Micro: 0.7081, Val Loss: 0.2778, Val Acc: 0.6888, Val F1 Macro: 0.6832, Val F1 Micro: 0.7110
+Epoch [9/10], Time: 4.28s, Train Loss: 0.0783, Train Acc: 0.9446, Train F1 Macro: 0.7405, Train F1 Micro: 0.7343, Val Loss: 0.3071, Val Acc: 0.7059, Val F1 Macro: 0.6828, Val F1 Micro: 0.7105
+Epoch [10/10], Time: 4.25s, Train Loss: 0.0600, Train Acc: 0.9628, Train F1 Macro: 0.7629, Train F1 Micro: 0.7572, Val Loss: 0.3764, Val Acc: 0.6275, Val F1 Macro: 0.6778, Val F1 Micro: 0.7022
+Total Training Time: 43.54s
+Test Loss: 0.2183, Test Acc: 0.7406, Test F1 Macro: 0.7089, Test F1 Micro: 0.7406
+===== SEED 7 =====
+PyTorch Version : 2.11.0+cu128
+cuda
+2.1.Train_Original_Test_New.pt
+***** Best Result Updated at Epoch 1, Val Loss: 0.2675 *****
+Epoch [1/10], Time: 4.53s, Train Loss: 0.3860, Train Acc: 0.3999, Train F1 Macro: 0.3959, Train F1 Micro: 0.3999, Val Loss: 0.2675, Val Acc: 0.7088, Val F1 Macro: 0.6599, Val F1 Micro: 0.7088
+***** Best Result Updated at Epoch 2, Val Loss: 0.2247 *****
+Epoch [2/10], Time: 4.02s, Train Loss: 0.2890, Train Acc: 0.6036, Train F1 Macro: 0.5065, Train F1 Micro: 0.5017, Val Loss: 0.2247, Val Acc: 0.7437, Val F1 Macro: 0.6788, Val F1 Micro: 0.7262
+Epoch [3/10], Time: 4.07s, Train Loss: 0.2609, Train Acc: 0.6460, Train F1 Macro: 0.5555, Train F1 Micro: 0.5498, Val Loss: 0.2271, Val Acc: 0.7398, Val F1 Macro: 0.6874, Val F1 Micro: 0.7308
+***** Best Result Updated at Epoch 4, Val Loss: 0.2228 *****
+Epoch [4/10], Time: 4.05s, Train Loss: 0.2324, Train Acc: 0.7005, Train F1 Macro: 0.5938, Train F1 Micro: 0.5875, Val Loss: 0.2228, Val Acc: 0.7409, Val F1 Macro: 0.6917, Val F1 Micro: 0.7333
+Epoch [5/10], Time: 4.11s, Train Loss: 0.2022, Train Acc: 0.7521, Train F1 Macro: 0.6269, Train F1 Micro: 0.6204, Val Loss: 0.2382, Val Acc: 0.6795, Val F1 Macro: 0.6874, Val F1 Micro: 0.7225
+Epoch [6/10], Time: 4.14s, Train Loss: 0.1721, Train Acc: 0.8085, Train F1 Macro: 0.6581, Train F1 Micro: 0.6518, Val Loss: 0.2562, Val Acc: 0.6946, Val F1 Macro: 0.6840, Val F1 Micro: 0.7179
+Epoch [7/10], Time: 4.28s, Train Loss: 0.1385, Train Acc: 0.8627, Train F1 Macro: 0.6879, Train F1 Micro: 0.6819, Val Loss: 0.2676, Val Acc: 0.6982, Val F1 Macro: 0.6831, Val F1 Micro: 0.7151
+Epoch [8/10], Time: 4.20s, Train Loss: 0.1104, Train Acc: 0.9023, Train F1 Macro: 0.7151, Train F1 Micro: 0.7094, Val Loss: 0.3094, Val Acc: 0.6265, Val F1 Macro: 0.6770, Val F1 Micro: 0.7040
+Epoch [9/10], Time: 4.17s, Train Loss: 0.0802, Train Acc: 0.9426, Train F1 Macro: 0.7406, Train F1 Micro: 0.7353, Val Loss: 0.3270, Val Acc: 0.6693, Val F1 Macro: 0.6740, Val F1 Micro: 0.7001
+Epoch [10/10], Time: 4.33s, Train Loss: 0.0641, Train Acc: 0.9604, Train F1 Macro: 0.7628, Train F1 Micro: 0.7579, Val Loss: 0.3821, Val Acc: 0.6295, Val F1 Macro: 0.6697, Val F1 Micro: 0.6931
+Total Training Time: 41.91s
+Test Loss: 0.2228, Test Acc: 0.7409, Test F1 Macro: 0.7047, Test F1 Micro: 0.7409
+===== SEED 13 =====
+PyTorch Version : 2.11.0+cu128
+cuda
+2.1.Train_Original_Test_New.pt
+***** Best Result Updated at Epoch 1, Val Loss: 0.3081 *****
+Epoch [1/10], Time: 4.78s, Train Loss: 0.3887, Train Acc: 0.3887, Train F1 Macro: 0.3859, Train F1 Micro: 0.3887, Val Loss: 0.3081, Val Acc: 0.4909, Val F1 Macro: 0.5308, Val F1 Micro: 0.4909
+***** Best Result Updated at Epoch 2, Val Loss: 0.2466 *****
+Epoch [2/10], Time: 4.09s, Train Loss: 0.2862, Train Acc: 0.5998, Train F1 Macro: 0.5010, Train F1 Micro: 0.4943, Val Loss: 0.2466, Val Acc: 0.7264, Val F1 Macro: 0.6165, Val F1 Micro: 0.6086
+Epoch [3/10], Time: 4.11s, Train Loss: 0.2542, Train Acc: 0.6557, Train F1 Macro: 0.5557, Train F1 Micro: 0.5481, Val Loss: 0.2485, Val Acc: 0.6609, Val F1 Macro: 0.6292, Val F1 Micro: 0.6261
+***** Best Result Updated at Epoch 4, Val Loss: 0.2168 *****
+Epoch [4/10], Time: 4.19s, Train Loss: 0.2304, Train Acc: 0.6993, Train F1 Macro: 0.5933, Train F1 Micro: 0.5859, Val Loss: 0.2168, Val Acc: 0.7501, Val F1 Macro: 0.6487, Val F1 Micro: 0.6571
+Epoch [5/10], Time: 4.13s, Train Loss: 0.2021, Train Acc: 0.7518, Train F1 Macro: 0.6260, Train F1 Micro: 0.6191, Val Loss: 0.2365, Val Acc: 0.6865, Val F1 Macro: 0.6527, Val F1 Micro: 0.6630
+Epoch [6/10], Time: 4.09s, Train Loss: 0.1764, Train Acc: 0.7959, Train F1 Macro: 0.6553, Train F1 Micro: 0.6485, Val Loss: 0.2590, Val Acc: 0.6460, Val F1 Macro: 0.6512, Val F1 Micro: 0.6601
+Epoch [7/10], Time: 4.14s, Train Loss: 0.1440, Train Acc: 0.8516, Train F1 Macro: 0.6840, Train F1 Micro: 0.6775, Val Loss: 0.2552, Val Acc: 0.6829, Val F1 Macro: 0.6522, Val F1 Micro: 0.6634
+Epoch [8/10], Time: 4.18s, Train Loss: 0.1160, Train Acc: 0.8933, Train F1 Macro: 0.7105, Train F1 Micro: 0.7045, Val Loss: 0.2994, Val Acc: 0.6272, Val F1 Macro: 0.6489, Val F1 Micro: 0.6589
+Epoch [9/10], Time: 4.16s, Train Loss: 0.0893, Train Acc: 0.9325, Train F1 Macro: 0.7354, Train F1 Micro: 0.7298, Val Loss: 0.3328, Val Acc: 0.6219, Val F1 Macro: 0.6460, Val F1 Micro: 0.6548
+Epoch [10/10], Time: 4.12s, Train Loss: 0.0697, Train Acc: 0.9528, Train F1 Macro: 0.7574, Train F1 Micro: 0.7521, Val Loss: 0.3045, Val Acc: 0.6939, Val F1 Macro: 0.6478, Val F1 Micro: 0.6587
+Total Training Time: 41.99s
+Test Loss: 0.2168, Test Acc: 0.7501, Test F1 Macro: 0.7077, Test F1 Micro: 0.7501
+===== SEED 77 =====
+PyTorch Version : 2.11.0+cu128
+cuda
+2.1.Train_Original_Test_New.pt
+***** Best Result Updated at Epoch 1, Val Loss: 0.2640 *****
+Epoch [1/10], Time: 4.66s, Train Loss: 0.3812, Train Acc: 0.4072, Train F1 Macro: 0.4051, Train F1 Micro: 0.4072, Val Loss: 0.2640, Val Acc: 0.7040, Val F1 Macro: 0.6549, Val F1 Micro: 0.7040
+***** Best Result Updated at Epoch 2, Val Loss: 0.2214 *****
+Epoch [2/10], Time: 4.04s, Train Loss: 0.2900, Train Acc: 0.5971, Train F1 Macro: 0.5074, Train F1 Micro: 0.5021, Val Loss: 0.2214, Val Acc: 0.7507, Val F1 Macro: 0.6791, Val F1 Micro: 0.7274
+Epoch [3/10], Time: 4.20s, Train Loss: 0.2570, Train Acc: 0.6530, Train F1 Macro: 0.5590, Train F1 Micro: 0.5524, Val Loss: 0.2299, Val Acc: 0.7487, Val F1 Macro: 0.6893, Val F1 Micro: 0.7345
+Epoch [4/10], Time: 4.08s, Train Loss: 0.2307, Train Acc: 0.6989, Train F1 Macro: 0.5960, Train F1 Micro: 0.5890, Val Loss: 0.2305, Val Acc: 0.7229, Val F1 Macro: 0.6901, Val F1 Micro: 0.7316
+***** Best Result Updated at Epoch 5, Val Loss: 0.2153 *****
+Epoch [5/10], Time: 4.10s, Train Loss: 0.1998, Train Acc: 0.7549, Train F1 Macro: 0.6290, Train F1 Micro: 0.6222, Val Loss: 0.2153, Val Acc: 0.7408, Val F1 Macro: 0.6940, Val F1 Micro: 0.7334
+Epoch [6/10], Time: 4.11s, Train Loss: 0.1716, Train Acc: 0.8053, Train F1 Macro: 0.6593, Train F1 Micro: 0.6527, Val Loss: 0.2896, Val Acc: 0.5973, Val F1 Macro: 0.6814, Val F1 Micro: 0.7107
+Epoch [7/10], Time: 4.12s, Train Loss: 0.1428, Train Acc: 0.8526, Train F1 Macro: 0.6875, Train F1 Micro: 0.6813, Val Loss: 0.2553, Val Acc: 0.6754, Val F1 Macro: 0.6791, Val F1 Micro: 0.7057
+Epoch [8/10], Time: 4.13s, Train Loss: 0.1099, Train Acc: 0.9021, Train F1 Macro: 0.7148, Train F1 Micro: 0.7089, Val Loss: 0.2736, Val Acc: 0.6870, Val F1 Macro: 0.6777, Val F1 Micro: 0.7034
+Epoch [9/10], Time: 4.15s, Train Loss: 0.0883, Train Acc: 0.9308, Train F1 Macro: 0.7391, Train F1 Micro: 0.7335, Val Loss: 0.3316, Val Acc: 0.6467, Val F1 Macro: 0.6727, Val F1 Micro: 0.6971
+Epoch [10/10], Time: 4.11s, Train Loss: 0.0678, Train Acc: 0.9551, Train F1 Macro: 0.7609, Train F1 Micro: 0.7557, Val Loss: 0.3231, Val Acc: 0.6697, Val F1 Macro: 0.6705, Val F1 Micro: 0.6943
+Total Training Time: 41.71s
+Test Loss: 0.2153, Test Acc: 0.7408, Test F1 Macro: 0.7113, Test F1 Micro: 0.7408
+===== SEED 123 =====
+PyTorch Version : 2.11.0+cu128
+cuda
+2.1.Train_Original_Test_New.pt
+***** Best Result Updated at Epoch 1, Val Loss: 0.3096 *****
+Epoch [1/10], Time: 4.62s, Train Loss: 0.3824, Train Acc: 0.4131, Train F1 Macro: 0.4093, Train F1 Micro: 0.4131, Val Loss: 0.3096, Val Acc: 0.4766, Val F1 Macro: 0.5340, Val F1 Micro: 0.4766
+***** Best Result Updated at Epoch 2, Val Loss: 0.2392 *****
+Epoch [2/10], Time: 4.08s, Train Loss: 0.2919, Train Acc: 0.5926, Train F1 Macro: 0.5069, Train F1 Micro: 0.5029, Val Loss: 0.2392, Val Acc: 0.7187, Val F1 Macro: 0.6157, Val F1 Micro: 0.5976
+***** Best Result Updated at Epoch 3, Val Loss: 0.2231 *****
+Epoch [3/10], Time: 4.10s, Train Loss: 0.2627, Train Acc: 0.6417, Train F1 Macro: 0.5552, Train F1 Micro: 0.5491, Val Loss: 0.2231, Val Acc: 0.7452, Val F1 Macro: 0.6465, Val F1 Micro: 0.6468
+Epoch [4/10], Time: 4.07s, Train Loss: 0.2339, Train Acc: 0.6974, Train F1 Macro: 0.5928, Train F1 Micro: 0.5862, Val Loss: 0.2567, Val Acc: 0.5826, Val F1 Macro: 0.6378, Val F1 Micro: 0.6308
+Epoch [5/10], Time: 4.03s, Train Loss: 0.2045, Train Acc: 0.7505, Train F1 Macro: 0.6259, Train F1 Micro: 0.6191, Val Loss: 0.2350, Val Acc: 0.6694, Val F1 Macro: 0.6433, Val F1 Micro: 0.6385
+Epoch [6/10], Time: 4.04s, Train Loss: 0.1747, Train Acc: 0.8059, Train F1 Macro: 0.6568, Train F1 Micro: 0.6502, Val Loss: 0.2606, Val Acc: 0.6510, Val F1 Macro: 0.6436, Val F1 Micro: 0.6406
+Epoch [7/10], Time: 4.07s, Train Loss: 0.1427, Train Acc: 0.8549, Train F1 Macro: 0.6858, Train F1 Micro: 0.6794, Val Loss: 0.2700, Val Acc: 0.6603, Val F1 Macro: 0.6443, Val F1 Micro: 0.6434
+Epoch [8/10], Time: 4.06s, Train Loss: 0.1100, Train Acc: 0.9016, Train F1 Macro: 0.7132, Train F1 Micro: 0.7072, Val Loss: 0.3039, Val Acc: 0.6395, Val F1 Macro: 0.6435, Val F1 Micro: 0.6429
+Epoch [9/10], Time: 4.17s, Train Loss: 0.0854, Train Acc: 0.9367, Train F1 Macro: 0.7384, Train F1 Micro: 0.7327, Val Loss: 0.3516, Val Acc: 0.5981, Val F1 Macro: 0.6395, Val F1 Micro: 0.6379
+Epoch [10/10], Time: 4.07s, Train Loss: 0.0662, Train Acc: 0.9577, Train F1 Macro: 0.7605, Train F1 Micro: 0.7552, Val Loss: 0.3710, Val Acc: 0.6170, Val F1 Macro: 0.6375, Val F1 Micro: 0.6358
+Total Training Time: 41.31s
+Test Loss: 0.2231, Test Acc: 0.7452, Test F1 Macro: 0.7095, Test F1 Micro: 0.7452
