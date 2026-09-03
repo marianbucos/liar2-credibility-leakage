@@ -162,6 +162,6 @@ If you use this repository, please cite the accompanying paper (to appear):
              Analysis and Correction for the LIAR2 Fake News Benchmark},
   journal = {IEEE Access},
   year    = {2026},
-  note    = {To appear}
+  doi     = {10.1109/ACCESS.2026.3730178}
 }
 ```
